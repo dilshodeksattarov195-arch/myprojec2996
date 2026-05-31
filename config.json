@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterealculate",
+        "uuid": 620172,
+        "checksum": "tsi0a4"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
